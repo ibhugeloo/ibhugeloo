@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ibhugeloo
-- 👀 I’m interested in developping and hardware
+- 👋 Hi, I’m @ibhugeloo (idriss bhugeloo)
+- 👀 I’m interested in admin system and network
 - 🌱 I’m currently learning figma and knowledge
 - 💞️ I’m looking to collaborate on projects 
 
