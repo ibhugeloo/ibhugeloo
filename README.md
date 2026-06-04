@@ -52,10 +52,5 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ibhugeloo&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&hide=contribs" alt="GitHub stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibhugeloo&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top languages" height="160" />
-</p>
-
-<p align="center">
   <a href="https://manin.studio">🌐 manin.studio</a>
 </p>
